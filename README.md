@@ -16,5 +16,5 @@ Link a las pruebas finales: https://drive.google.com/open?id=1m_V2AXpfo8SpeOr330
 ## ¿Como usar?
 
 * Clonar el repo
-* Correr el bash ejecutando el comando "bash deploy.sh"
+* Correr el bash ejecutando el comando `bash deploy.sh`
 * Listo
