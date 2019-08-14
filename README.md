@@ -17,4 +17,4 @@ Link a las pruebas finales: https://drive.google.com/open?id=1m_V2AXpfo8SpeOr330
 
 * Clonar el repo
 * Correr el bash ejecutando el comando `bash deploy.sh`
-* Listo
+* Correr los modulos (LFS, Memoria y Kernel) en ese orden, y listo
