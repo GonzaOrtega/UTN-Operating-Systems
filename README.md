@@ -1,6 +1,6 @@
 # Trabajo Practico de Sistemas Operatios 1C 2019
 
-# Objetivo
+## Objetivo
 
 El objetivo del trabajo práctico consiste en desarrollar una solución que permita la simulación de
 ciertos aspectos de una base de datos distribuida, es decir donde los distintos recursos del sistema
@@ -28,6 +28,9 @@ Los Request principales que le podremos solicitar al sistema son:
   DESCRIBE: Permite obtener la Metadata de una tabla en particular o de todas las tablas que el filesystem tenga.
   
   DROP: Permite la eliminación de una tabla del file system.
+
+## Link a la consigna: 
+https://drive.google.com/open?id=1JV6F7cPAMJJvrM_D3-dt8IbaDvP9Tkk-
 
 ## ¿Como usar?
 
