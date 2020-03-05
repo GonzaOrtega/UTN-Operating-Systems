@@ -1,6 +1,4 @@
-# tp-2019-1c-Los-Sisoperadores
-
-El tp de Sistemas Operativos 1C2019 !!
+# Trabajo Practico de Sistemas Operatios 1C 2019
 
 ![Lissandra](https://img9.uhdpixel.com/wp/a/8/lissandra-lol-splash-art-league-of-legends-a829.jpg)
 
